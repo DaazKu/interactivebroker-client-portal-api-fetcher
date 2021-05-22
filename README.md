@@ -15,5 +15,5 @@ chmod 0777 /tmp/ibcpaf_download_dir
 and mount it in the container as `/ibcpaf_download_dir`
 
 ```
-docker run -it -v /tmp/ibcpaf_download_dir:/ibcpaf_download_dir interactivebroker-client-portal-api-fetcher:latest
+docker run -it -v /tmp/ibcpaf_download_dir:/ibcpaf_download_dir daazku/interactivebroker-client-portal-api-fetcher:latest
 ```
