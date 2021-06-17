@@ -3,7 +3,7 @@
 Fetch current version of InteractiveBrokers Client Portal REST API.
 
 Since there's no "version" yet, the downloaded file be prefixed with the Last-Modified date as Y-m-d. 
-Keeps the latest 3 versions only.
+Keep the latest 3 versions only.
 
 # Usage
 
